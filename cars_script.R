@@ -13,3 +13,4 @@ par(mfrow=c(2,2))   # this sets the plot environment to do 4 plots, 2 by 2
 plot(speed.lm)  # the default plot method for lm - crazy huh?
 
 write.csv(cars, "cars.csv")  # save data to csv file in working directory
+
